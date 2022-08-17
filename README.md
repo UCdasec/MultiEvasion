@@ -7,7 +7,7 @@ This repository contains the implementation of our paper "MultiEvasion: Evasion 
 ## Reference
 When reporting results that use the dataset or code in this repository, please cite the paper below:
 
-Hao Liu, Wenhai Sun, Nan Niu, Boyang Wang, "MultiEvasion: Evasion Attacks Against Multiple Malware Detectors" by IEEE Conference on Coomunications and Network Security (CNS 2022), Austin, TX, USA, 3-5 October 2022
+Hao Liu, Wenhai Sun, Nan Niu, Boyang Wang, "MultiEvasion: Evasion Attacks Against Multiple Malware Detectors" by IEEE Conference on Comunications and Network Security (CNS 2022), Austin, TX, USA, 3-5 October 2022
 
 ## Environment
 To running this repositery, we recommed you to install the environment with advmal.txt file:
