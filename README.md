@@ -5,7 +5,7 @@ This repository contains the implementation of our paper "MultiEvasion: Evasion 
 ** The data set and code for research purpose only**
 
 ## Reference
-When reporting results that use the dataset or code in this repository, please cite:
+When reporting results that use the dataset or code in this repository, please cite the paper below:
 
 Hao Liu, Wenhai Sun, Nan Niu, Boyang Wang, "MultiEvasion: Evasion Attacks Against Multiple Malware Detectors" by IEEE Conference on Coomunications and Network Security (CNS 2022), Austin, TX, USA, 3-5 October 2022
 
