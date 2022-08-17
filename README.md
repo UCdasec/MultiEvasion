@@ -4,6 +4,11 @@ This repository contains the implementation of our paper "MultiEvasion: Evasion 
 
 ** The data set and code for research purpose only**
 
+## Reference
+When reporting results that use the dataset or code in this repository, please cite:
+
+Hao Liu, Wenhai Sun, Nan Niu, Boyang Wang, "MultiEvasion: Evasion Attacks Against Multiple Malware Detectors" by IEEE Conference on Coomunications and Network Security (CNS 2022), Austin, TX, USA, 3-5 October 2022
+
 ## Environment
 To running this repositery, we recommed you to install the environment with advmal.txt file:
 ```conda env create --file advmal.txt```
@@ -205,11 +210,6 @@ The most parameters decriptions same as above.
 --width: width value of image. Default is 320.
 --height: height value of image. Default is 320.
 ```
-
-## Citation
-When reporting results that use the dataset or code in this repository, please cite:
-
-Hao Liu, Wenhai Sun, Nan Niu, Boyang Wang, "MultiEvasion: Evasion Attacks Against Multiple Malware Detectors" by IEEE CNS 2022, Austin, TX, USA, 3-5 October 2022
 
 ## Contacts
 Hao Liu, liu3ho@mail.uc.edu
